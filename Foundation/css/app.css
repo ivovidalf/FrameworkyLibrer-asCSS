@@ -1,0 +1,26 @@
+body {
+	background: url(../fondo.jpg);
+}
+
+.main {
+	background-color: rgba(233, 175, 82, 0.7);
+}
+
+.leftside {
+	background-color: #e9af8d;
+	margin: 0 1vh 1vh 1vh;
+	padding-top: 1vh;
+}
+
+.mainContent {
+	background-color: #ece190;
+	padding: 2vh;
+}
+
+a:link, a:visited {
+	color: #ffffcc;
+}
+
+a:hover, a:active {
+	color: #ffe6f0;
+}
